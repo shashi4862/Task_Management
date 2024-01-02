@@ -1,7 +1,7 @@
 # Image search Engine
-screenshort
+Register
 ![Alt text](/1.png "optional title")
-screenshort2
+Login
 ![Alt text](/2.png "optional title")
-screenshort2
+Main Page
 ![Alt text](/home.png "optional title")
