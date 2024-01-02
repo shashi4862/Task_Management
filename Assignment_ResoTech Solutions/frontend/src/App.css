@@ -1,0 +1,23 @@
+.header{
+    background: rgb(41,165,197);
+background: linear-gradient(90deg, rgba(41,165,197,1) 0%, rgba(147,203,244,1) 47%, rgba(255,255,255,1) 100%);
+}
+
+body{
+    background-color: #bcd7eb;
+}
+.btncolout{
+    background: rgb(2, 171, 106) ;
+}
+
+.page{
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+.templink{
+    text-decoration: none;
+    color: white;
+}
